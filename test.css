@@ -1,0 +1,18 @@
+#design{
+background-color: white;
+
+align-items: center;
+}
+h1{
+	text-align: center;
+	text-decoration-color: blue;
+	background-color: red;
+}
+img{
+	border-image-source: right;
+}
+input{
+	padding: 5px 10px;
+margin: 10px 10px;
+
+}
